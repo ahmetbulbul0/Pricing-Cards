@@ -17,4 +17,4 @@ While it is not responsive, this project serves as a great foundation for static
 
 1. just open index.html file
 
-*Original Ui Design Link (Dribble):* *[https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page](https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page)*
+*Original Ui Design Link (UiDesignDaily):* *[uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449](https://uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)*
